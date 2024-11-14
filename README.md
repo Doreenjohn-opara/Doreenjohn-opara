@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doreenjohn-opara
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning  Data Analysis and Python 
-- 💞️ I’m looking to collaborate on Data related projects
+- 👀 I pivoted to software engineering from data analytics and engineering
+- 🌱 I’m currently learning javascript and java 
+- 💞️ I’m looking to collaborate on real-world problems
 - 📫 @doreenjohnopara@gmail.com
 
 <!---
